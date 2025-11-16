@@ -10,6 +10,7 @@ public class MainApplication {
     public static void doSomething() {
         System.out.println(1);
         System.out.println(1);
+        System.out.println(15555);
 
     }
 }
