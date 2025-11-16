@@ -6,4 +6,9 @@ public class MainApplication {
         System.out.println("jjj");
 
     }
+
+    public static void main doSomething {
+        System.out.println(1);
+
+    }
 }
